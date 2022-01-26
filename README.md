@@ -25,6 +25,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - My projects
 - My CSS skill
+- My Java Script skill
 
 
 ## 🌱 I'm currently learning
