@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**Udith1998/Udith1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ 
 
-Here are some ideas to get you started:
+<h3 align="center">
+Hi there, I'm udith  👋
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+I'm a  Web Developer 💻,  Designer 🎨!
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
+### 🤝 Connect with me:
+- Instragram: 
+- Facebook  :
+- Twitter
+
+
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
+
+- My projects
+- My CSS skill
+
+
+## 🌱 I'm currently learning
+
+- Html
+- Css
+- Java Script
+- My Sql 
+
+
+<p> I love connecting with different people..So if you want to say hi,I'll be happy to meet you more!:)</p>
+
