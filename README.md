@@ -13,7 +13,7 @@ I'm a  Web Developer 💻,  Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-- Instragram: udith_chathuranga;
+- Instragram: https://instagram.com/udith_chathuranga;
 - Facebook  :
 - Twitter   :
 
